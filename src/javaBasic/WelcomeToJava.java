@@ -1,4 +1,4 @@
-package basicJava;
+package javaBasic;
 
 public class WelcomeToJava {
     public static void main(String[] args) {
